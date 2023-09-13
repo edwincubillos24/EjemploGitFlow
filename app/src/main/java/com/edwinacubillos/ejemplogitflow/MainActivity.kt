@@ -11,3 +11,4 @@ class MainActivity : AppCompatActivity() {
 }
 //Edwin Andres Cubillos Vega
 //Diego Fernando Velez Ramirez
+//Simon Llano Cardenas
