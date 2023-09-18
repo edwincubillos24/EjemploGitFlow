@@ -9,4 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 }
+//Edwin Andrés Cubillos Vega
+//Diego Fernando Velez Ramirez
+//Simon Llano Cardenas
 //jorge andres arango
